@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BacArena"]
+	path = BacArena
+	url = https://github.com/euba/bacarena
+	shallow = true
+	registered = true
